@@ -3,3 +3,9 @@
 </h1>
 
 <h2>🎉Projects🎉</h2>
+
+- <b>Prediction Models</b>
+  - [Housing Price/Time on Market Predction Model](https://github.com/abenloss007/House_Price_Prediction)
+- <b>Dashboard Projects</b>
+  - [Bike PowerBi Dashboard](https://github.com/abenloss007/Sales_report_Powerbi)
+  - [Car Dealership Dashboard](https://github.com/abenloss007/Car_dealership_dashboard)
